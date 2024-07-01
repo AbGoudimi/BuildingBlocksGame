@@ -1,0 +1,4 @@
+repository "BuildingBlocksGame@unity_7ED27642B29CD01510E7@cloud"
+  path "/"
+    br "/main"
+    co "/main"
